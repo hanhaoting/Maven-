@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class App {
     System.out.println("Git 实践：测试修改代码");
+    System.out.println("分支：改变搜索");
 
     private static List<Student> students = new ArrayList<>();
 
