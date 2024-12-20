@@ -6,6 +6,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class App {
+    System.out.println("Git 实践：测试修改代码");
+
     private static List<Student> students = new ArrayList<>();
 
     public static void main(String[] args) throws Exception {
